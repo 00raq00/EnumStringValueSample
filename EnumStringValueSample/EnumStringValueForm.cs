@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-  public partial class EnumStringValue : Form
+  public partial class EnumStringValueForm : Form
   {
-    public EnumStringValue()
+    public EnumStringValueForm()
     {
       InitializeComponent();
       

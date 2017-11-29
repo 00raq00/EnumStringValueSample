@@ -46,11 +46,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="SampleEnum.cs" />
-    <Compile Include="EnumStringValue.cs">
+    <Compile Include="EnumStringValueForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EnumStringValue.Designer.cs">
-      <DependentUpon>EnumStringValue.cs</DependentUpon>
+    <Compile Include="EnumStringValueForm.Designer.cs">
+      <DependentUpon>EnumStringValueForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

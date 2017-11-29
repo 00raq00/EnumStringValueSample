@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-  partial class EnumStringValue
+  partial class EnumStringValueForm
   {
     /// <summary>
     /// Required designer variable.
